@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Madhumitha",
+    "occupation": "Student at SSN College of Engineering",
+    "description": "An Enthusiatic and passionate learner. I love to love the job that I do.",
+    "image": "profilepic.jpeg",
+    "bio": "I am a passionate student who loves to solve real world problems with the help of Tech Tools. I am also a Current-Affairs fanatic who loves to keep myself updated about the happenings around the world. I love to challenge myself with exciting tasks and solve them.",
+    "contactmessage": "Get in touch",
+    "email": "seyshivma@gmail.com",
+    "phone": "944xxxxxxx",
+    "address": {
+      "street": "",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/scrodenbug",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "An Enthusiatic Computer science student",
+    "education": [
+      {
+        "school": "SSN College of Engineering",
+        "degree": "UG-Computer Science and Engineering",
+        "graduated": "2018-22",
+        "description": "B.E degree in CSE"
+      }
+    ],
+    "work": [
+      {
+        "company": "BHAVINI (An Govt of India Enterprise)",
+        "title": "Research Intern ",
+        "years": "August 2020 - Present",
+        "description": "Responsible for developing and training an ANN for estimation of Inverse Rotor Time constant for an Induction Motor using important parameters like flux angle,current etc"
+      }
+    ],
+    "skills": [
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "MATLAB",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "TensorFlow",
+        "level": "70%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Early Warning System for Prevention of Human Animal Conflict",
+        "category": "Image processing and CNN based",
+        "image": "slon.jpg",
+        "url": ""
+      },
+      {
+        "title": "Reliability Estimation",
+        "category": "Reliability estimation using Fault trees and Binary Decision Diagrams",
+        "image": "faulttree.jpg",
+        "url": ""
+      },
+      {
+        "title": "Apartment Management System",
+        "category": "Apartment automation system built using ReactJS and SQL DB",
+        "image": "housera.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "-Vandebron a company based in Netherlands ",
+        "user": "🏆Greentech International Hackathon 2021 Winner Hack-The-Planet Challenge "
+      },
+      {
+        "text": "-Delhi Technological University",
+        "user": "🏆Winner-Best Womens Team-Vihaan 2021-National Level Hackathon "
+      },
+
+      {
+        "text": "-SSN college of Engineering ",
+        "user": "🏆Winner-Intercollegiate Hackathon-Hack and Tackle 3.0"
+      },
+      {
+        "text": "-VIT Vellore",
+        "user": "🏆Top 12 teams-Hackulus-National Level Hackathon "
+      }
+    ]
+  }
+}
